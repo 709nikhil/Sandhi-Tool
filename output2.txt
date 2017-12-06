@@ -1,0 +1,651 @@
+FINAL OUTPUT: स्व + छन्दः -> स्वच्छन्दः
+FINAL OUTPUT: वि + छेद -> विच्छेद
+FINAL OUTPUT: मा + छिदत् -> माच्छिदत्
+FINAL OUTPUT: आ + छादयति -> आच्छादयति
+FINAL OUTPUT: चे + छिद्यते -> चेच्छिद्यते
+FINAL OUTPUT: लक्ष्मी + छाया -> लक्ष्मीच्छाया
+FINAL OUTPUT: प्रति + एकः -> प्रत्येकः
+FINAL OUTPUT: नदी + अत्र -> नद्यत्र
+FINAL OUTPUT: मधु + अत्र -> मध्वत्र
+FINAL OUTPUT: वधू + आज्ञा -> वध्वाज्ञा
+FINAL OUTPUT: मातृ + आज्ञा -> मात्राज्ञा
+FINAL OUTPUT: ऌ + आकृतिः -> लाकृतिः
+FINAL OUTPUT: अभि + उदय -> अभ्युदय
+FINAL OUTPUT: अनु + अयः -> अन्वयः
+FINAL OUTPUT: कर्तृ + ई -> कर्त्री
+FINAL OUTPUT: फले + इच्छा -> फलयिच्छा
+FINAL OUTPUT: तस्मै + एतत् -> तस्मायेतत्
+FINAL OUTPUT: तौ + एकदा -> तावेकदा
+ने + अनम् ->
+1) नयनम्(6.1.78)
+2) नेऽनम्(6.1.109)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: ने + अनम् -> नेऽनम्
+भो + अनम् ->
+1) भवनम्(6.1.78)
+2) भोऽनम्(6.1.109)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: भो + अनम् -> भोऽनम्
+FINAL OUTPUT: नै + अकः -> नायकः
+FINAL OUTPUT: पौ + अकः -> पावकः
+FINAL OUTPUT: माण्डो + यः -> माण्डव्यः
+FINAL OUTPUT: गो + यम् -> गव्यम्
+FINAL OUTPUT: नौ + यम् -> नाव्यम्
+FINAL OUTPUT: गो + यूतिः -> गव्यूतिः
+FINAL OUTPUT: लो + यम् -> लव्यम्
+FINAL OUTPUT: भौ + यम् -> भाव्यम्
+FINAL OUTPUT: जे + य -> जय्य
+FINAL OUTPUT: क्षे + य -> क्षय्य
+FINAL OUTPUT: क्रे + य -> क्रय्य
+FINAL OUTPUT: भे + य -> भय्य
+FINAL OUTPUT: कस् + असिचत् -> कससिचत्
+देव + इन्द्रः ->
+1) देवेन्द्रः(6.1.87)
+2) देविन्द्रः(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: देव + इन्द्रः -> देविन्द्रः
+FINAL OUTPUT: पर + उपकारः -> परोपकारः
+देव + ऋषिः ->
+1) देवर्षिः(6.1.87)
+2) देवार्षिः(6.1.91)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: देव + ऋषिः -> देवार्षिः
+प्र + ईक्षणम् ->
+1) प्रेक्षणम्(6.1.87)
+2) प्रीक्षणम्(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: प्र + ईक्षणम् -> प्रीक्षणम्
+FINAL OUTPUT: प्र + उत्साहः -> प्रोत्साहः
+FINAL OUTPUT: तव + ऌकारः -> तवल्कारः
+अत्र + एकः ->
+1) अत्रैकः(6.1.88)
+2) अत्रेकः(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: अत्र + एकः -> अत्रेकः
+देव + ऐश्वर्यम् ->
+1) देवैश्वर्यम्(6.1.88)
+2) देवैश्वर्यम्(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: देव + ऐश्वर्यम् -> देवैश्वर्यम्
+तण्डुल + ओदनम् ->
+1) तण्डुलौदनम्(6.1.88)
+2) तण्डुलोदनम्(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: तण्डुल + ओदनम् -> तण्डुलोदनम्
+देव + औदार्यम् ->
+1) देवौदार्यम्(6.1.88)
+2) देवौदार्यम्(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: देव + औदार्यम् -> देवौदार्यम्
+प्रष्ठ + ऊहः ->
+1) प्रष्ठोहः(6.1.87)
+2) प्रष्ठौहः(6.1.89)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: प्रष्ठ + ऊहः -> प्रष्ठौहः
+विश्व + ऊहः ->
+1) विश्वोहः(6.1.87)
+2) विश्वौहः(6.1.89)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: विश्व + ऊहः -> विश्वौहः
+FINAL OUTPUT: अक्ष + ऊहिनी -> अक्षोहिणी
+उप + एति ->
+1) उपैति(6.1.88)
+2) उपैति(6.1.89)
+3) उपेति(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: उप + एति -> उपेति
+उप + एधते ->
+1) उपैधते(6.1.88)
+2) उपेधते(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: उप + एधते -> उपेधते
+प्र + ऊढः ->
+1) प्रोढः(6.1.87)
+2) प्रौढः(6.1.89)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: प्र + ऊढः -> प्रौढः
+प्र + ऊढः ->
+1) प्रोढः(6.1.87)
+2) प्रौढः(6.1.89)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: प्र + ऊढः -> प्रौढः
+स्व + ईरः ->
+1) स्वेरः(6.1.87)
+2) स्वैरः(6.1.89)
+3) स्वीरः(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: स्व + ईरः -> स्वीरः
+FINAL OUTPUT: बहुश्रेयस्यी + आट्ङे -> बहुश्रेयस्य्याट्ङे
+उप + ऋच्छति ->
+1) उपर्च्छति(6.1.87)
+2) उपार्च्छति(6.1.91)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: उप + ऋच्छति -> उपार्च्छति
+प्र + ऋच्छति ->
+1) प्रर्च्छति(6.1.87)
+2) प्रार्च्छति(6.1.91)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: प्र + ऋच्छति -> प्रार्च्छति
+शक + अन्धुः ->
+1) शकन्धुः(6.1.94)
+2) शकान्धुः(6.1.101.1)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: शक + अन्धुः -> शकान्धुः
+मन + ईषा ->
+1) मनेषा(6.1.87)
+2) मनीषा(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: मन + ईषा -> मनीषा
+कुल + अटा ->
+1) कुलटा(6.1.94)
+2) कुलाटा(6.1.101.1)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: कुल + अटा -> कुलाटा
+सीम + अन्तः ->
+1) सीमन्तः(6.1.94)
+2) सीमान्तः(6.1.101.1)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: सीम + अन्तः -> सीमान्तः
+सार + अङ्गः ->
+1) सारङ्गः(6.1.94)
+2) साराङ्गः(6.1.101.1)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: सार + अङ्गः -> साराङ्गः
+स्थूल + ओतुः ->
+1) स्थूलौतुः(6.1.88)
+2) स्थूलोतुः(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: स्थूल + ओतुः -> स्थूलोतुः
+अद्य + अर्श्यात् ->
+1) अद्यर्श्यात्(6.1.94)
+2) अद्यार्श्यात्(6.1.101.1)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: अद्य + अर्श्यात् -> अद्यार्श्यात्
+बिम्ब + ओष्ठः ->
+1) बिम्बौष्ठः(6.1.88)
+2) बिम्बोष्ठः(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: बिम्ब + ओष्ठः -> बिम्बोष्ठः
+का + ओम् ->
+1) कौम्(6.1.88)
+2) कोम्(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: का + ओम् -> कोम्
+शिवाय + ओम् ->
+1) शिवायौम्(6.1.88)
+2) शिवायोम्(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: शिवाय + ओम् -> शिवायोम्
+कदा + ओढा ->
+1) कदौढा(6.1.88)
+2) कदोढा(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: कदा + ओढा -> कदोढा
+अया + उस् ->
+1) अयोः(6.1.87)
+2) अयुः(6.1.96)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: अया + उस् -> अयुः
+छिन्द्या + उस् ->
+1) छिन्द्योः(6.1.87)
+2) छिन्द्युः(6.1.96)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: छिन्द्या + उस् -> छिन्द्युः
+पच + ए ->
+1) पचै(6.1.88)
+2) पचे(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: पच + ए -> पचे
+पच + अन्ति ->
+1) पचन्ति(6.1.94)
+2) पचान्ति(6.1.101.1)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: पच + अन्ति -> पचान्ति
+FINAL OUTPUT: घटत् + इति -> घटइति
+FINAL OUTPUT: झटत् + इति -> झटइति
+FINAL OUTPUT: पटत्पटत् + इति -> पटत्पटइति
+FINAL OUTPUT: पटत्पटत् + इति -> पटत्पटइति
+FINAL OUTPUT: पटत्पटत् + आ -> पटत्पटता
+FINAL OUTPUT: हिम + आलयः -> हिमालयः
+FINAL OUTPUT: गिरि + ईशः -> गिरीशः
+FINAL OUTPUT: विष्णु + उदयः -> विष्णूदयः
+FINAL OUTPUT: होतृ + ऋकारः -> होतृ_ऋकारः
+FINAL OUTPUT: उप + आचार्यः -> उपाचार्यः
+उप + इन्द्रः ->
+1) उपेन्द्रः(6.1.87)
+2) उपिन्द्रः(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: उप + इन्द्रः -> उपिन्द्रः
+अग्नि + औ ->
+1) अग्न्यौ(6.1.77.1)
+2) अग्नी(6.1.102)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: अग्नि + औ -> अग्नी
+वायु + औ ->
+1) वाय्वौ(6.1.77.2)
+2) वायू(6.1.102)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: वायु + औ -> वायू
+वृक्ष + अस् ->
+1) वृक्षस्(6.1.94)
+2) वृक्षास्(6.1.101.1)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: वृक्ष + अस् -> वृक्षास्
+वृक्ष + औ ->
+1) वृक्षौ(6.1.88)
+2) वृक्षौ(6.1.94)
+3) वृक्षा(6.1.102)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: वृक्ष + औ -> वृक्षा
+कुमारी + औ ->
+1) कुमार्यौ(6.1.77.1)
+2) कुमारौ(6.1.106)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: कुमारी + औ -> कुमारौ
+उपनाही + औ ->
+1) उपनाह्यौ(6.1.77.1)
+2) उपनाहौ(6.1.106)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: उपनाही + औ -> उपनाहौ
+वृक्ष + अम् ->
+1) वृक्षम्(6.1.94)
+2) वृक्षाम्(6.1.101.1)
+3) वृक्षम्(6.1.107)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: वृक्ष + अम् -> वृक्षम्
+ग्रह + इत ->
+1) ग्रहेत(6.1.87)
+2) ग्रहित(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: ग्रह + इत -> ग्रहित
+सेवते + अहम् ->
+1) सेवतयहम्(6.1.78)
+2) सेवतेऽहम्(6.1.109)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: सेवते + अहम् -> सेवतेऽहम्
+लोको + अयम् ->
+1) लोकवयम्(6.1.78)
+2) लोकोऽयम्(6.1.109)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: लोको + अयम् -> लोकोऽयम्
+अग्ने + अस् ->
+1) अग्नयस्(6.1.78)
+2) अग्नेऽस्(6.1.109)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: अग्ने + अस् -> अग्नेऽस्
+FINAL OUTPUT: पुरुषर् + हसति -> पुरुषर्_हसति
+गो + अग्रम् ->
+1) गवग्रम्(6.1.78)
+2) गोऽग्रम्(6.1.109)
+3) गवअग्रम्(6.1.123)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: गो + अग्रम् -> गवअग्रम्
+गो + इन्द्रः ->
+1) गविन्द्रः(6.1.78)
+2) गवइन्द्रः(6.1.124)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: गो + इन्द्रः -> गवइन्द्रः
+FINAL OUTPUT: कुमारी + अत्र -> कुमार्यत्र
+ब्रह्मा + ऋषिः ->
+1) ब्रह्मर्षिः(6.1.87)
+2) ब्रह्मार्षिः(6.1.91)
+3) ब्रह्माऋषिः(6.1.128)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: ब्रह्मा + ऋषिः -> ब्रह्माऋषिः
+FINAL OUTPUT: दिव् + कामः -> दिव्_कामः
+FINAL OUTPUT: एषः + ददाति -> एषददाति
+स्यः + ते ->
+1) स्यते(6.1.133)
+2) स्यस्ते(8.3.34)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: स्यः + ते -> स्यस्ते
+FINAL OUTPUT: सः + एषदाशरथीरामः -> सएषदाशरथीरामः
+FINAL OUTPUT: सम् + अकरोत् -> समकरोत्
+FINAL OUTPUT: परि + कर्ता -> परिष्कर्ता
+FINAL OUTPUT: परि + कृतम् -> परिष्कृतम्
+FINAL OUTPUT: उप + कृतम् -> उपकृतम्
+FINAL OUTPUT: उप + कारम् -> उपकारम्
+FINAL OUTPUT: प्रति + कीर्णम् -> प्रतिस्कीर्णम्
+FINAL OUTPUT: अप + किरते -> अपकिरते
+FINAL OUTPUT: कु + तुम्बुरु -> कुस्तुम्बुरु
+FINAL OUTPUT: अपर + पराः -> अपरपराः
+FINAL OUTPUT: गो + पद -> गोष्पद
+FINAL OUTPUT: आ + पद -> आस्पद
+FINAL OUTPUT: आ + चर्य -> आश्चर्य
+FINAL OUTPUT: अव + करः -> अवस्करः
+FINAL OUTPUT: अप + करः -> अपस्करः
+FINAL OUTPUT: वि + करः -> विष्करः
+FINAL OUTPUT: सु + चन्द्रः -> सुश्चन्द्रः
+प्रति + कशः ->
+1) प्रतिस्कशः(6.1.139)
+2) प्रतिष्कशः(6.1.152)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: प्रति + कशः -> प्रतिष्कशः
+FINAL OUTPUT: हरि + चन्द्र -> हरिश्चन्द्र
+FINAL OUTPUT: कर + मस्कर -> करमस्कर
+FINAL OUTPUT: अज + तुन्द -> अजस्तुन्द
+FINAL OUTPUT: कार + कर -> कारस्कर
+FINAL OUTPUT: पार + कर -> पारस्कर
+महान् + असि ->
+1) महाँअसि(8.3.3)
+2) महान्ङसि(8.3.32)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: महान् + असि -> महान्ङसि
+महान् + इन्द्र ->
+1) महाँइन्द्र(8.3.3)
+2) महान्निन्द्र(8.3.32)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: महान् + इन्द्र -> महान्निन्द्र
+FINAL OUTPUT: सम् + स्कर्ता -> संस्स्कर्ता
+FINAL OUTPUT: सम् + स्कर्ता -> संस्स्कर्ता
+FINAL OUTPUT: पुम् + कामा -> पुंस्कामा
+FINAL OUTPUT: सम् + कर्त्ता -> संस्कर्त्ता
+FINAL OUTPUT: सम् + कर्त्ता -> संस्कर्त्ता
+FINAL OUTPUT: पुम् + कामा -> पुंस्कामा
+FINAL OUTPUT: तस्मिन् + तरौ -> तस्मिंस्तरौ
+FINAL OUTPUT: तस्मिन् + त्वा -> तस्मिंस्त्वा
+FINAL OUTPUT: नॄन् + पाहि -> नॄंःपाहि
+FINAL OUTPUT: नॄन् + पाहि -> नॄंःपाहि
+FINAL OUTPUT: कान् + कान् -> काँस्कान्
+FINAL OUTPUT: लिढ् + ढः -> लिढ्_ढः
+FINAL OUTPUT: पुनर् + रमते -> पुनरमते
+वृक्षर् + तरति ->
+1) वृक्षस्तरति(8.3.15)
+2) (8.4.46)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: वृक्षर् + तरति -> 
+पयर् + सु ->
+1) पयःसु(8.3.16)
+2) पयःषु(8.3.85)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: पयर् + सु -> पयःषु
+FINAL OUTPUT: भोर् + अत्र -> भोअत्र
+FINAL OUTPUT: कय् + आस्ते -> कआस्ते
+FINAL OUTPUT: भोय् + इदम् -> भोइदम्
+FINAL OUTPUT: भगोय् + हसति -> भगोहसति
+FINAL OUTPUT: वनम् + गच्छति -> वनम्_गच्छति
+FINAL OUTPUT: पयान् + सि -> पयांसि
+सम् + राट् ->
+1) संराट्(8.3.23)
+2) सम्राट्(8.3.25)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: सम् + राट् -> सम्राट्
+कथम् + ह्नुते ->
+1) कथंह्नुते(8.3.23)
+2) कथन्ह्नुते(8.3.27)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: कथम् + ह्नुते -> कथन्ह्नुते
+FINAL OUTPUT: प्राङ् + शेते -> प्राङ्क्शेते
+सन् + सः ->
+1) संसः(8.3.24)
+2) सन्त्सः(8.3.30)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: सन् + सः -> सन्त्सः
+FINAL OUTPUT: सन् + शम्भुः -> सअम्भुः
+FINAL OUTPUT: प्रत्यङ् + आत्मा -> प्रत्यङ्णात्मा
+शमु + अस्तु ->
+1) शम्वस्तु(6.1.77.2)
+2) शम्वस्तु(8.3.33)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: शमु + अस्तु -> शम्वस्तु
+FINAL OUTPUT: वृक्षः + तरति -> वृक्षस्तरति
+FINAL OUTPUT: वृक्षः + शेते -> वृक्षश्शेते
+FINAL OUTPUT: पयः + पाशम् -> पयस्पाशम्
+नमः + कर्त्ता ->
+1) नमस्कर्त्ता(8.3.34)
+2) नमस्कर्त्ता(8.3.38)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: नमः + कर्त्ता -> नमस्कर्त्ता
+तिरः + करोति ->
+1) तिरस्करोति(8.3.34)
+2) तिरस्करोति(8.3.38)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: तिरः + करोति -> तिरस्करोति
+अयः + कारः ->
+1) अयस्कारः(8.3.34)
+2) अयस्कारः(8.3.38)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: अयः + कारः -> अयस्कारः
+FINAL OUTPUT: अयः + पात्रम् -> अयस्पात्रम्
+कः + कः ->
+1) कस्कः(8.3.34)
+2) कस्कः(8.3.38)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: कः + कः -> कस्कः
+पयः + करति ->
+1) पयस्करति(8.3.34)
+2) पयस्करति(8.3.38)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: पयः + करति -> पयस्करति
+FINAL OUTPUT: महः + परि -> महस्परि
+FINAL OUTPUT: दिवः + पातु -> दिवस्पातु
+FINAL OUTPUT: तमसः + पारम् -> तमसस्पारम्
+FINAL OUTPUT: अधः + पदम् -> अधस्पदम्
+FINAL OUTPUT: इडायाः + पतिः -> इडायास्पतिः
+FINAL OUTPUT: सर्पिः + पाशम् -> सर्पिष्पाशम्
+आविः + कृतम् ->
+1) आविस्कृतम्(8.3.34)
+2) आविष्कृतम्(8.3.39)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: आविः + कृतम् -> आविष्कृतम्
+द्विः + करोति ->
+1) द्विस्करोति(8.3.34)
+2) द्विष्करोति(8.3.39)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: द्विः + करोति -> द्विष्करोति
+सर्पिः + करोति ->
+1) सर्पिस्करोति(8.3.34)
+2) सर्पिष्करोति(8.3.39)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: सर्पिः + करोति -> सर्पिष्करोति
+FINAL OUTPUT: धनुः + फलम् -> धनुष्फलम्
+जला + साट् ->
+1) जलाषाट्(8.3.56)
+2) जलाषाट्(8.3.107)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: जला + साट् -> जलाषाट्
+FINAL OUTPUT: सर्पिः + सु -> सर्पिःषु
+FINAL OUTPUT: वायु + सु -> वायुषु
+FINAL OUTPUT: उ + सितः -> उषितः
+FINAL OUTPUT: अभि + सुनोति -> अभिषुनोति
+FINAL OUTPUT: वि + सदिति -> विषदिति
+FINAL OUTPUT: परि + स्तभ्नाति -> परिष्टभ्णाति
+FINAL OUTPUT: वि + स्वनति -> विष्वनति
+FINAL OUTPUT: परि + सेवते -> परिषेवते
+FINAL OUTPUT: अनु + स्यन्दते -> अनुष्यन्दते
+FINAL OUTPUT: वि + स्कन्ता -> विष्कन्ता
+FINAL OUTPUT: परि + स्कन्ता -> परिष्कन्ता
+FINAL OUTPUT: वि + स्कम्भिता -> विष्कम्भिता
+FINAL OUTPUT: अभि + स्यात् -> अभिष्यात्
+FINAL OUTPUT: सु + सूतिः -> सुषूतिः
+FINAL OUTPUT: नि + स्नातः -> निष्नातः
+FINAL OUTPUT: वि + स्तार -> विष्टार
+FINAL OUTPUT: वि + स्थलम् -> विष्ठलम्
+FINAL OUTPUT: प्रति + स्नातः -> प्रतिष्णातः
+FINAL OUTPUT: सु + साम -> सुषाम
+FINAL OUTPUT: अभि + ससाद -> अभिषसाद
+FINAL OUTPUT: परि + स्कन्द -> परिष्कन्द
+FINAL OUTPUT: अव + स्थभ्यास्ते -> अवष्थभ्यास्ते
+FINAL OUTPUT: अङ्गुलि + सङ्ग -> अङ्गुलिषङ्ग
+FINAL OUTPUT: भीरु + स्थानम् -> भीरुष्ठाणम्
+FINAL OUTPUT: अग्नि + स्तुत् -> अग्निष्टुत्
+FINAL OUTPUT: आयु + स्तोमः -> आयुष्टोमः
+FINAL OUTPUT: युधि + स्थिरः -> युधिष्ठिरः
+FINAL OUTPUT: अग्नि + स्थः -> अग्निष्ठः
+FINAL OUTPUT: मधु + स्थानम् -> मधुष्ठानम्
+FINAL OUTPUT: हरि + सेनः -> हरिषेणः
+FINAL OUTPUT: भरणि + सेनः -> भरणिषेणः
+FINAL OUTPUT: मातृ + स्वसा -> मातृष्वसा
+FINAL OUTPUT: मातुर् + स्वसा -> मातुःष्वसा
+FINAL OUTPUT: निस् + स्फुरति -> निस्ष्फुरति
+FINAL OUTPUT: अभिनिस् + स्तानः -> अभिनिस्ष्तानः
+FINAL OUTPUT: प्र + स्थ -> प्रष्थ
+FINAL OUTPUT: सर्पिस् + तरम् -> सर्पिष्तरम्
+FINAL OUTPUT: निस् + तपतिः -> निष्तपतिः
+FINAL OUTPUT: अग्निस् + ते -> अग्निष्ते
+FINAL OUTPUT: गो + स्तोमम् -> गोष्तोमम्
+FINAL OUTPUT: पृतना + साहम् -> पृतनाषाहम्
+FINAL OUTPUT: अभी + सु -> अभीषु
+FINAL OUTPUT: नि + असीदत् -> न्यसीदत्
+FINAL OUTPUT: शूर्प + नखा -> शूर्पणखा
+FINAL OUTPUT: शारिका + वनम् -> शारिकावणम्
+FINAL OUTPUT: शर + वनम् -> शरवणम्
+FINAL OUTPUT: बदरी + वनम् -> बदरीवणम्
+पूर्व + अहनः ->
+1) पूर्वहणः(6.1.94)
+2) पूर्वाहणः(6.1.101.1)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: पूर्व + अहनः -> पूर्वाहणः
+FINAL OUTPUT: इक्षु + वाहनम् -> इक्षुवाहणम्
+FINAL OUTPUT: कषाय + पानः -> कषायपाणः
+FINAL OUTPUT: सुरा + पानम् -> सुरापाणम्
+FINAL OUTPUT: स्वर्ग + कामिनौ -> स्वर्गकामिणौ
+FINAL OUTPUT: अन्तर् + हन्यते -> अन्तर्_हण्यते
+FINAL OUTPUT: अन्तर् + अयनम् -> अन्तरयणम्
+FINAL OUTPUT: पूष् + ना -> पूषा
+FINAL OUTPUT: रामे + न -> रामेण
+FINAL OUTPUT: वृत्र + हनः -> वृत्रहणः
+FINAL OUTPUT: परि + नमति -> परिणमति
+FINAL OUTPUT: प्र + हिनुतः -> प्रहिणुतः
+FINAL OUTPUT: प्रवप + आनि -> प्रवपाणि
+FINAL OUTPUT: प्र + निपतति -> प्रणिपतति
+FINAL OUTPUT: प्र + निपचति -> प्रणिपचति
+प्र + अनिति ->
+1) प्रणिति(6.1.94)
+2) प्राणिति(6.1.101.1)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: प्र + अनिति -> प्राणिति
+प्र + अन् ->
+1) प्रन्(6.1.94)
+2) प्रान्(6.1.101.1)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: प्र + अन् -> प्रान्
+FINAL OUTPUT: प्र + हन्यते -> प्रहण्यते
+FINAL OUTPUT: प्र + हन्वः -> प्रहण्वः
+FINAL OUTPUT: रक्षा + नः -> रक्षाणः
+FINAL OUTPUT: परि + मानम् -> परिमाणम्
+FINAL OUTPUT: प्र + यापनम् -> प्रयापणम्
+FINAL OUTPUT: प्र + कोपनम् -> प्रकोपणम्
+प्र + इङ्खनम् ->
+1) प्रेङ्खणम्(6.1.87)
+2) प्रिङ्खणम्(6.1.94)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: प्र + इङ्खनम् -> प्रिङ्खणम्
+FINAL OUTPUT: प्र + निक्षणम् -> प्रणिक्षणम्
+वृक्ष + अन् ->
+1) वृक्षन्(6.1.94)
+2) वृक्षान्(6.1.101.1)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: वृक्ष + अन् -> वृक्षान्
+FINAL OUTPUT: वृक्षस् + शेते -> वृक्षश्शेते
+FINAL OUTPUT: कस् + चित् -> कश्चित्
+FINAL OUTPUT: अग्निचित् + शेते -> अग्निचित्छेते
+FINAL OUTPUT: सत् + चित् -> सच्चित्
+FINAL OUTPUT: यज् + नः -> यज्ञः
+FINAL OUTPUT: वृक्षस् + टीकते -> वृक्षष्टीकते
+FINAL OUTPUT: दुस् + टः -> दुष्टः
+FINAL OUTPUT: वृक्षस् + षण्डे -> वृक्षष्षण्डे
+FINAL OUTPUT: विष् + नुः -> विषुः
+FINAL OUTPUT: पेष् + ता -> पेष्टा
+FINAL OUTPUT: तत् + टीका -> तट्टीका
+FINAL OUTPUT: उद् + डीनः -> उड्डीनः
+FINAL OUTPUT: षट् + नाम् -> 
+FINAL OUTPUT: वाक् + नयति -> वाक्_नयति
+FINAL OUTPUT: वाक् + नयति -> वाक्_नयति
+FINAL OUTPUT: वाक् + मयम् -> वाङ्मयम्
+कर् + तव्यम् ->
+1) कस्तव्यम्(8.3.15)
+2) (8.4.46)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: कर् + तव्यम् -> 
+कर् + तव्यम् ->
+1) कस्तव्यम्(8.3.15)
+2) (8.4.46)
+
+Please select the Sandhi you wish to perform: 
+FINAL OUTPUT: कर् + तव्यम् -> 
+FINAL OUTPUT: दध्य् + अत्र -> दधत्र
+FINAL OUTPUT: अक्षदर् + शः -> अक्षदर्शः
+FINAL OUTPUT: वृध् + धिः -> वृध्_धिः
+FINAL OUTPUT: युयुध् + सते -> युयुध्_सते
+FINAL OUTPUT: शं + का -> शं_का
+FINAL OUTPUT: त्वं + करोषि -> त्वं_करोषि
+FINAL OUTPUT: तत् + लीनः -> तल्लीनः
+FINAL OUTPUT: विद्वान् + लिखति -> विद्वाँल्लिखति
+FINAL OUTPUT: उद् + स्थानम् -> उथ्थानम्
+FINAL OUTPUT: वाग् + हरिः -> वाग्_हरिः
+FINAL OUTPUT: तत् + शिवः -> तत्छिवः
+FINAL OUTPUT: तत् + शिवः -> तत्छिवः

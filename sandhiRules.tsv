@@ -1,1 +1,98 @@
-6.1.73	a;i;u;f;x	C				Pre-Aagam	t	FALSE6.1.74	A	C	^(A|mA)$			Aagam	c	FALSE8.4.40	t	C				Pre-Aadesh	c	FALSE
+6.1.73	a i u f x	C	Pre-Aagam	c		
+6.1.74	A	C	Pre-Aagam	c	^(A|mA)$	
+6.1.76	I U e E o O	C	Pre-Aagam	c		
+6.1.77.1	i I	a A u U o O e E f F x X	Pre-Aadesh	y y		
+6.1.77.2	u U	a A i I o O e E f F x X	Pre-Aadesh	v v		
+6.1.77.3	f F	a A i I u U o O e E x X	Pre-Aadesh	r r		
+6.1.77.4	x X	a A i I u U o O e E f F	Pre-Aadesh	l l		
+6.1.78	e E o O	a A i I u U o O e E f F x X	Pre-Aadesh	ay Ay av Av		
+6.1.79	o O	y	Pre-Aadesh	av Av		
+6.1.81	e	y	Pre-Aadesh	ay		
+6.1.87	a A	i I u U f F x X	Post-Ekadesh	e e o o ar ar al al		
+6.1.88	a A	e E o O	Post-Ekadesh	E E O O		
+6.1.89	a	e I U	Post-Ekadesh	E E O		^(UhaH|Uhini|eti|eDte|UQaH|IraH)$
+6.1.91	a A	f	Post-Ekadesh	Ar		
+6.1.94	a A	a i I e E o O	Post-Ekadesh	a i I e E o O		
+6.1.96	a A	u	Post-Ekadesh	u		^us$
+6.1.98	t	i	Post-Ekadesh	i		^iti$
+6.1.101.1	a A	a A	Post-Ekadesh	A A		
+6.1.101.2	i I	i I	Post-Ekadesh	I I		
+6.1.101.3	u U	u U	Post-Ekadesh	U U		
+6.1.102	a i u	O	Pre-Ekadesh	A I U		^(O|as)$
+6.1.106	I	O	Post-Ekadesh	O		^O$
+6.1.107	a i u	a	Pre-Ekadesh	a i u		^am$
+6.1.109	e o	a	Post-Aadesh	'		
+6.1.123	o	a	Pre-Aadesh	ava	^go$	
+6.1.124	o	i	Pre-Aadesh	ava	^go$	
+6.1.128	A U I F	f	Prakritibhaav			
+6.1.132	H	d	Pre-Elision		^ezaH$	
+6.1.133	H	t	Pre-Elision		^syaH$	
+6.1.134	H	e	Pre-Elision		^saH$	
+6.1.137	m i p	k	Pre-Aagam	z	^pari$	
+6.1.139	m i p	k	Pre-Aagam	s	^(up|prati|ap)$	
+6.1.143	u	t	Pre-Aagam	s	^ku$	^tumburu$
+6.1.144	r	p	Pre-Aagam	s	^apar$	^paraH$
+6.1.145	o	p	Pre-Aagam	z	^go$	^pada$
+6.1.146	A	p	Pre-Aagam	s	^A$	^pada$
+6.1.147	A	c	Pre-Aagam	S	^A$	^carya$
+6.1.148	a	k	Pre-Aagam	s	^ava$	^karaH$
+6.1.149	a	k	Pre-Aagam	s	^apa$	^karaH$
+6.1.150	i	k	Pre-Aagam	z	^vi$	^karaH$
+6.1.151	u	c	Pre-Aagam	S	^su$	^candraH$
+6.1.152	i	k	Pre-Aagam	z	^prati$	^kaSaH$
+6.1.153	i	c	Pre-Aagam	S	^hari$	^candra$
+6.1.154	a	c	Pre-Aagam	s	^kara$	^maskara$
+6.1.155	a	t	Pre-Aagam	s	^aja$	^tunda$
+6.1.156	a	k	Pre-Aagam	s	^kAra$	^kara$
+6.1.157	a	k	Pre-Aagam	s	^pAra$	^kara$
+8.3.3	n	a i o	Pre-Aadesh	~		
+8.3.5	m	s	Pre-Aadesh	Ms	^sam$	
+8.3.6	m	k K t T c C w W	Pre-Aadesh	Ms		
+8.3.7	n	t T c C w W	Pre-Aadesh	Ms		
+8.3.10	n	p	Pre-Aadesh	MH	^nFn$	
+8.3.12	n	k	Pre-Aadesh	~s	^kAn$	^kAn$
+8.3.13	J	J	Pre-Elision			
+8.3.14	r	r	Pre-Elision			
+8.3.15	r	k K t T c C w W	Pre-Aadesh	s		
+8.3.16	r	s	Pre-Aadesh	H		^su$
+8.3.17	r	a i o	Pre-Elision		^Bor$	
+8.3.19	v y	a i o A I O	Pre-Elision			
+8.3.22	y	h v r y	Pre-Elision			
+8.3.23	m	h v r y	Pre-Aadesh	M		
+8.3.24	n	s	Pre-Aadesh	M		
+8.3.25	m	r	Prakritibhaav		^sam$	
+8.3.27	m	h	Pre-Aadesh	n		
+8.3.28	N R	S z	Pre-Aagam	k w		
+8.3.30	n	s	Post-Aagam	t	^san$	
+8.3.31	n	S	Pre-Ekadesh			
+8.3.32	N R n	a A i I o O	Post-Aagam	N R n		
+8.3.33	u	a i o	Pre-Aadesh	v	^Samu$	
+8.3.34	H	k K t T c C w W	Pre-Aadesh	s		
+8.3.36	H	S	Pre-Aadesh	S		
+8.3.38	H	k K p P	Pre-Aadesh	s	^.*[^iu].$	
+8.3.39	H	k K p P	Pre-Aadesh	z	^.*[iu].$	
+8.3.56	A	s	Post-Aadesh	z		^sAw$
+8.3.58	H	s	Post-Aadesh	z		
+8.3.60	i u	s	Post-Aadesh	z		
+8.3.68	a	s	Post-Aadesh	z	^ava$	
+8.3.84	f	s	Post-Aadesh	z		
+8.3.85	r	s	Post-Ekadesh	Hz		
+8.3.86	s	s	Post-Aadesh	z		
+8.3.92	a	s	Post-Aadesh	z	^pra$	
+8.3.101	s	t	Pre-Aadesh	z		
+8.3.105	o	s	Post-Aadesh	z	^go$	
+8.3.107	A I	s	Post-Aadesh	z		
+8.4.40.1	s	c C j J Y S	Pre-Aadesh	S		
+8.4.40.2	t T d D n	c C j J Y	Pre-Aadesh	c C j J Y		
+8.4.40.3	c C j J Y	t T d D n	Post-Aadesh	c C j J Y		
+8.4.41.1	s	w W q Q R z	Pre-Aadesh	z		
+8.4.41.2	z	t T d D n	Post-Aadesh	w W q Q R		
+8.4.41.3	t T d D n	w W q Q R	Pre-Aadesh	w W q Q R		
+8.4.42	w W q Q R	t T d D n s	Ekadesh	RR		^nAm$
+8.4.45	k c w t p	N Y R N m	Pre-Aadesh	N		
+8.4.46	r h	k c w t p	Post-Reduplicate			
+8.4.49	r h	S	Prakritibhaav			
+8.4.60.1	t T d D	l	Pre-Aadesh	l		
+8.4.60.2	n	l	Pre-Aadesh	~l		
+8.4.61	d	s	Post-Ekadesh	T		
+8.4.63	k t c	S	Post-Aadesh	C		

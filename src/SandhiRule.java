@@ -12,9 +12,6 @@ class SandhiRule {
 
     private Pattern leftContext;
     private Pattern rightContext;
-    private Pattern overallContext;
-
-    private boolean optional;
 
     private String sandhiType;
     private String[] modification;
@@ -25,8 +22,6 @@ class SandhiRule {
             String[] secondWordPrefix,
             Pattern leftContext,
             Pattern rightContext,
-            Pattern overallContext,
-            boolean optional,
             String sandhiType,
             String[] modification
     ) {
@@ -37,42 +32,74 @@ class SandhiRule {
 
         this.leftContext = leftContext;
         this.rightContext = rightContext;
-        this.overallContext = overallContext;
-
-        this.optional = optional;
 
         this.sandhiType = sandhiType;
         this.modification = modification;
     }
 
-    String[] applySandhi(String leftWord, String rightWord) {
-        String output = this.modification[0];
+    String applySandhi(String leftWord, String rightWord) {
+        String output = "";
+
+        if (this.modification.length == 1)
+            output = modification[0];
+        else if (this.modification.length == 0)
+            output = "";
+        else if (this.sandhiType.startsWith("Pre")) {
+            for (int i = 0; i < firstWordSuffix.length; i++) {
+                if (leftWord.endsWith(firstWordSuffix[i])) {
+                    output = modification[i];
+                    break;
+                }
+            }
+        }
+        else if (this.sandhiType.startsWith("Post")) {
+            for (int i = 0; i < secondWordPrefix.length; i++) {
+                if (rightWord.startsWith(secondWordPrefix[i])) {
+                    output = modification[i];
+                    break;
+                }
+            }
+        }
+
+        if (this.id.equals("8.3.60") || this.id.equals("8.3.80")) {
+            switch (rightWord.charAt(1)) {
+                case 't' : rightWord = rightWord.replaceFirst("t", "w");
+                    break;
+                case 'T' : rightWord = rightWord.replaceFirst("T", "W");
+                    break;
+                case 'd' : rightWord = rightWord.replaceFirst("d", "q");
+                    break;
+                case 'D' : rightWord = rightWord.replaceFirst("D", "Q");
+                    break;
+            }
+        }
+
         switch (this.sandhiType) {
 
-            case "Aagam":
-                return new String[] {leftWord + output + rightWord};
             case "Pre-Aagam":
-                return new String[] {leftWord + output, rightWord};
+                return leftWord + output + rightWord;
             case "Post-Aagam":
-                return new String[] {leftWord, output + rightWord};
+                return leftWord + output + rightWord;
 
             case "Pre-Aadesh":
-                return new String[] {leftWord.substring(0, leftWord.length()-1) + output, rightWord};
+                return leftWord.substring(0, leftWord.length()-1) + output + rightWord;
             case "Post-Aadesh":
-                return new String[] {leftWord, output + rightWord.substring(1)};
+                return leftWord + output + rightWord.substring(1);
 
-            case "Ekadesh":
-                return new String[] {leftWord.substring(0, leftWord.length()-1) + output + rightWord.substring(1)};
+            case "Pre-Ekadesh":
+                return leftWord.substring(0, leftWord.length()-1) + output + rightWord.substring(1);
+            case "Post-Ekadesh":
+                return leftWord.substring(0, leftWord.length()-1) + output + rightWord.substring(1);
 
             case "Pre-Elision":
-                return new String[] {leftWord.substring(0, leftWord.length()-1) + rightWord};
+                return leftWord.substring(0, leftWord.length()-1) + rightWord;
             case "Post-Elision":
-                return new String[] {leftWord + rightWord.substring(1)};
+                return leftWord + rightWord.substring(1);
 
             case "Prakritibhaav":
-                return new String[] {leftWord + rightWord};
+                return leftWord + rightWord;
         }
-        return new String[]{};
+        return "";
     }
 
     boolean checkIfSandhiApplicable(String leftWord, String rightWord) {
@@ -108,7 +135,7 @@ class SandhiRule {
         return false;
     }
 
-    public String getId() {
+    String getId() {
         return id;
     }
 }

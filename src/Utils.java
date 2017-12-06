@@ -11,7 +11,24 @@ class Utils {
         try {
             Runtime rt = Runtime.getRuntime();
 
-            Process pr = rt.exec("./transcriber 6 0 " + input);
+            Process pr = rt.exec("./transcriber 6 0 " + input + "");
+            BufferedReader br = new BufferedReader(new InputStreamReader(pr.getInputStream()));
+
+            String output = br.lines().collect(Collectors.joining());
+            pr.waitFor();
+
+            return output;
+        } catch (Exception e) {
+            System.out.println("Some error in running Transcriber!");
+        }
+        return "";
+    }
+
+    static String convertDevtoSLP(String input) {
+        try {
+            Runtime rt = Runtime.getRuntime();
+
+            Process pr = rt.exec("./transcriber 0 6 " + input);
             BufferedReader br = new BufferedReader(new InputStreamReader(pr.getInputStream()));
 
             String output = br.lines().collect(Collectors.joining());
